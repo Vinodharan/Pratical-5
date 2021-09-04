@@ -52,4 +52,4 @@ steps:
 
     script: |
       print('This is python applicatio from azure platform')
-      print('190030061')
+      print('190030264')
